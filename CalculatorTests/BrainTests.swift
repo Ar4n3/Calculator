@@ -153,8 +153,4 @@ class BrainTests: XCTestCase {
         XCTAssertTrue(brain.result == 9)
     }
     
-    func testFailingTest {
-        XCTAssertTrue(false)
-    }
-    
 }
